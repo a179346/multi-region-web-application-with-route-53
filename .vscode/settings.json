@@ -1,0 +1,18 @@
+{
+  "editor.tokenColorCustomizations": {
+    "[Material Theme Darker High Contrast]": {
+      "comments": "#828790"
+    }
+  },
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "baowang",
+    "client",
+    "get",
+    "key",
+    "recaptcha"
+  ]
+}

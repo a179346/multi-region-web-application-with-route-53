@@ -1,0 +1,29 @@
+{
+  "name": "multi-region-web-application-with-route-53",
+  "version": "1.0.0",
+  "description": "multi-region web application with route 53",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a179346/multi-region-web-application-with-route-53.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a179346/multi-region-web-application-with-route-53/issues"
+  },
+  "homepage": "https://github.com/a179346/multi-region-web-application-with-route-53#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nocache": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
